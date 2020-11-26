@@ -1,8 +1,55 @@
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
+  name: Sensor state monitoring app
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+    A bespoke big data web app that won me an invididual award
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    Functions as a proactive monitoring tool for safety instrument systems in a production facility in Australia. The underlying model is the use of a statistical method called CuSUM. 
+    
+    The back-end requirement demands on-the-fly ingesting and transformation of data to evaluate the latest state of those systems. The front-end requirement calls for a UI that spans multiple pages and have interactivity with the back-end to add or modify algorithm parameters. 
+    
+    The challenge was to design a pipeline that meets the scope and scale with big data. 
+
+    The product moved from concept to MVP in 3 months in a team comprising just myself as the developer and a product owner. 
+    
+    The pace, output quality and the variety of technology stack applied has earned me the <i> Rising Star in AI </i> individual award in the internal Shell.AI awards competition. This project is also featured in the annual Shell.AI magazine. 
+
+    <mark>Azure Streaming Analytics</mark> - Used for ingesting streaming data
+    <br>
+    <mark>Azure Functions</mark> - Used for computing at scale 
+    <br> 
+    <mark>R</mark> - Used for building the front-end interface 
+    <br> 
+    <mark> Azure SQL</mark> - Database 
+
+- layout: top-middle
+  name: Sand surveillance app 
+  quote: >
+    A bespoke web app that utilises Spark Structured Streaming for on-the-fly analytics 
+  description: | # this will include new lines to allow paragraphs
+    Functions as a live surveillance tool for sand production in a large offshore facility in the Gulf of Mexico. The requirement demands on-the-fly ingesting, processing and calculation with latency of no more than a minute. 
+
+    This was solved using Spark Structured Streaming API to create a pipeline that ingests streaming data, transforms, apply and push to the database continuously. 
+
+    I was the only developer in this project
+
+    <mark>DataBricks</mark> - Used for on-the-fly data processing at scale 
+    <br> 
+    <mark>Azure Data Lake</mark> - Used for storing delta lake tables
+    <br> 
+    <mark>R</mark> - Used for building the front-end interface 
+    <br> 
+    <mark>MongoDB</mark> - Database 
+
+- layout: top-middle
+  name: Gas sales trading app 
+  quote: >
+    A bespoke web app that implements grid search algorithm 
+  description: | # this will include new lines to allow paragraphs
+    The app functions as a tool to generate optimal trading transactions based on a given multitude of boundary conditions. The requirement demands an algorithm that handles many edge cases and captures the complex business logic. 
+
+    This project was shortlisted in the the internal Shell.AI awards competition for a project award but failed to secure a win. 
+
+    <mark>R</mark> - Used for building the back-end and front-end 
+    <br> 
+    <mark>Azure SQL</mark> - Database 
+
