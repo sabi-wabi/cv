@@ -30,7 +30,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am moderately skilled in : <mark> Python </mark> , <mark> SQL </mark> , <mark> JavaScript </mark>, <mark> HTML </mark> , <mark> CSS </mark> 
 
-  Frameworks that I am learning : <mark> React </mark> , <mark> Express </mark>, <mark> Material UI </mark> 
+  Frameworks that I am learning : <mark> React </mark> , <mark> Express </mark>, <mark> Material UI </mark>, <mark> d3 /</mark> 
 
 # Projects Section
 # projects_title: Projects
