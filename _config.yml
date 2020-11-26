@@ -21,7 +21,7 @@ youtube_username: TheZhenMing
 
 # About Section
 about_title: About Me
-about_profile_image: images/me.jpg
+about_profile_image: images/me.JPG
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Ming and I am a data engineer/data scientist with an engineering background. 
   Despite starting with limited coding experience, I have single handedly built full-stack web applications. My greatest strength is my ability to grasp complex concept quickly and learn independently. 
