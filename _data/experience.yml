@@ -1,11 +1,16 @@
 - layout: left
-  company: Shell Netherlands
-  job_title: Data Engineer/Data Scientist
-  dates: October 2020 - Present
+  company: LeapX
+  job_title: Machine learning full-stack engineer
+  dates: April 2021
   description: | # this will include new lines to allow paragraphs
-   Development on <b>sand surveillance app</b>
-   
-    Working on two other full-stack web app projects that demands proficieny in React 
+   Development of the LeapX machine learning platform and full-stack applications. 
+
+- layout: left
+  company: Shell Netherlands
+  job_title: Full-stack developer 
+  dates: October 2020 - April 2021
+  description: | # this will include new lines to allow paragraphs
+   Independently developed three full-stack applications using React and Next JS frameworks. 
 
 
 - layout: left
