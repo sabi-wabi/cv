@@ -30,7 +30,8 @@ about_content: | # this will include new lines to allow paragraphs
   I am self-motivated, self-taught and self-managed.
 
   Programming languages : <mark> R </mark> , <mark> Python </mark> , <mark> SQL </mark> , <mark> JavaScript </mark>, <mark> HTML </mark> , <mark> CSS </mark> 
-  Frameworks : <mark>React JS</mark>,<mark>Next JS</mark>,<mark>NoSQL</mark>,,<mark>Docker</mark>,,<mark>Apache Spark</mark>
+
+  Frameworks : <mark>React JS</mark>,<mark>Next JS</mark>,<mark>NoSQL</mark>,<mark>Docker</mark>,<mark>Apache Spark</mark>
 
 # Projects Section
 # projects_title: Projects
