@@ -25,9 +25,9 @@ about_profile_image: images/me.JPG
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Ming and I am a full-stack developer with an engineering background and practical experience in the oil and gas industry. 
 
-I am a pragmatic engineer that does what needs to be done to deliver exceptional work.
+  I am a pragmatic engineer that does what needs to be done to deliver exceptional work.
 
-I am self-motivated, self-taught and self-managed.
+  I am self-motivated, self-taught and self-managed.
 
   Programming languages : <mark> R </mark> , <mark> Python </mark> , <mark> SQL </mark> , <mark> JavaScript </mark>, <mark> HTML </mark> , <mark> CSS </mark> 
   Frameworks : <mark>React JS</mark>,<mark>Next JS</mark>,<mark>NoSQL</mark>,,<mark>Docker</mark>,,<mark>Apache Spark</mark>
