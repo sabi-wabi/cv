@@ -4,12 +4,12 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Zhen Ming Ng
-title: Data Engineer/Data Scientist
+title: Machine Learning Full-stack engineer
 email: zhenming91@hotmail.com
 
 # Social links
 # twitter_username: facespics
-github_username:  zhenming91
+github_username:  sabi-wabi
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
@@ -23,14 +23,14 @@ youtube_username: TheZhenMing
 about_title: About Me
 about_profile_image: images/me.JPG
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Ming and I am a data engineer/data scientist with an engineering background. 
-  Despite starting with limited coding experience, I have single handedly built full-stack web applications. My greatest strength is my ability to grasp complex concept quickly and learn independently. 
+  Hi, my name is Ming and I am a full-stack developer with an engineering background and practical experience in the oil and gas industry. 
 
-  I am highly skilled in : <mark>R</mark>
+I am a pragmatic engineer that does what needs to be done to deliver exceptional work.
 
-  I am moderately skilled in : <mark> Python </mark> , <mark> SQL </mark> , <mark> JavaScript </mark>, <mark> HTML </mark> , <mark> CSS </mark> 
+I am self-motivated, self-taught and self-managed.
 
-  Frameworks that I am learning : <mark> React </mark> , <mark> Express </mark>, <mark> Material UI </mark>, <mark> d3 </mark> 
+  Programming languages : <mark> R </mark> , <mark> Python </mark> , <mark> SQL </mark> , <mark> JavaScript </mark>, <mark> HTML </mark> , <mark> CSS </mark> 
+  Frameworks : <mark>React JS</mark>,<mark>Next JS</mark>,<mark>NoSQL</mark>,,<mark>Docker</mark>,,<mark>Apache Spark</mark>
 
 # Projects Section
 # projects_title: Projects
